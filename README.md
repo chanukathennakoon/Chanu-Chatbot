@@ -1,5 +1,5 @@
-# Chanu-Chatbot
-# 💬 Chanu AI Chatbot
+# Jester-Chatbot
+# 💬 Jester AI Chatbot
 
 A beautiful web-based chatbot using Google's Gemini API with support for:
 - Chat interaction
@@ -22,7 +22,8 @@ A beautiful web-based chatbot using Google's Gemini API with support for:
 ├── script.js # Logic + Gemini API calls
 └── README.md # This file
 
-![image](https://github.com/user-attachments/assets/77fea720-6828-4339-b943-14f5260f0714)
+![image](https://github.com/user-attachments/assets/0b3bc530-73ef-412e-9a98-c62b0a27b114)
+
 
 
 ## This project uses:
