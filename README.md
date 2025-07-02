@@ -1,5 +1,6 @@
 # Jester-Chatbot
 # 💬 Jester AI Chatbot
+https://chanukathennakoon.github.io/Jester-Chatbot/
 
 A beautiful web-based chatbot using Google's Gemini API with support for:
 - Chat interaction
@@ -41,5 +42,4 @@ Google Gemini API
 PDF.js by Mozilla
 Emoji icons from Twemoji
 
-## Link
-https://chanukathennakoon.github.io/Jester-Chatbot/
+
