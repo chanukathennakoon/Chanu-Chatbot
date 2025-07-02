@@ -40,3 +40,6 @@ The bot reads and sends the extracted text to Gemini.
 Google Gemini API
 PDF.js by Mozilla
 Emoji icons from Twemoji
+
+## Link
+https://chanukathennakoon.github.io/Jester-Chatbot/
